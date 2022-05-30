@@ -1,2 +1,2 @@
 # Crud-App
-CRUD app with express.js for backend and react.js for front end
+CRUD app with express.js for backend and react.js, bulma  for front end
